@@ -1,2 +1,2 @@
 # djangotask
-First dDango Project
+First Django Project
